@@ -64,8 +64,3 @@ The original data aqcuired from Kaggle can be accessed through the link provided
 ![Screenshot 2025-04-16 224455](https://github.com/user-attachments/assets/88a7b152-de75-475a-bce0-43f781f6545f)
 ![Screenshot 2025-04-16 224441](https://github.com/user-attachments/assets/e9bf4dd5-6351-4723-b95f-13a23c0c97ee)
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For questions or suggestions, please contact me via the email on my profile or [LinkedIn](https://www.linkedin.com/in/christine-coomans/).
